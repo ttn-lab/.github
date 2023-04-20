@@ -1,4 +1,5 @@
-Hi there! 👋
+### Hi there! 👋
 
-This is the GitHub profile for our research group at the University of Granada, known as the rabbits :rabbit2:.
-Our research focuses on time and frequency synchronization technologies, as well as industrial communications.
+We are the Rabbits 🐰, a research group at the University of Granada, Spain.
+Our research focuses on time and frequency synchronization technologies, as
+well as industrial communications and critical systems.
